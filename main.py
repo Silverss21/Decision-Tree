@@ -13,6 +13,8 @@ car_data.tail()
 
 # asd
 
+
+
 print ("Dataset Lenght:: ", len(car_data))
 
 print("Dataset Shape: ", car_data.shape)
