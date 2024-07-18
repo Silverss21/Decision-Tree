@@ -11,7 +11,6 @@ car_data = pd.read_csv('car_data.csv')
 car_data.head()
 car_data.tail()
 
-# asd
 
 
 
